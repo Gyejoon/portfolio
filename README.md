@@ -1,20 +1,20 @@
 # PORTFOLIO
 
 
-## Introduction
+## 소개
 
 - 이름: 강준영(22세)
 - 주력언어: Java, Javascript
 
 
-## Contacts
+## 연락처
 
 - 이메일: [00700mm@gmail.com](mailto:00700mm@gmail.com)
 - Github: [Gyejoon](https://github.com/Gyejoon)
 - 블로그: [Gyejoong](http://gyejoong.ze.am)
 
 
-## 다룰 수 있는 기술
+## 자주 사용하는 기술
 ```
 Language    Java, JSP, PHP, HTML5, CSS3, Javascript
 Library     React.js(Redux), JQuery(Ajax)
@@ -31,7 +31,7 @@ Tools       Webpack, Git
 ```
 Language    C++, C#, ASP, Python3
 Library     Tensorflow
-Framework   Angular, Django, ASP.NET
+Framework   Angular, Vue, Django, ASP.NET
 Server      AWS
 Database    Postgresql
 Tools       Gulp
@@ -43,9 +43,10 @@ Tools       Gulp
 
 MDM솔루션
 ```
-개요: 2016년 설문조사 기준 기업에서 가장 도입이 시급한 솔루션으로 1위로 선정된 MDM 솔루션을 주제로 프로젝트를 진행하였습니다.  
+개요: 2016년 설문조사 기준 기업에서 가장 도입이 시급한 솔루션으로 1위로 선정된 
+    MDM 솔루션을 주제로 프로젝트를 진행하였습니다.
 개발 환경: Spring, Node.js, Jquery, Bootstrap, Android, MySQL
-작업기간: `2017-01-09 ~ 2017-11-22` (10개월 14일)
+작업기간: 2017-01-09 ~ 2017-11-22 (10개월 14일)
 공헌도: 40%
 ```
 
@@ -80,8 +81,10 @@ MDM솔루션
 - - -
 
 [SimpleBoard(바로가기)](https://github.com/Gyejoon/simpleBoard)
-
+```
 개요: React.js 스터디를 위한 간단한 게시판 프로젝트입니다.
 개발 환경: Node.js, React.js, Webpack, MongoDB
-작업기간: `2018-02-06 ~ `
+작업기간: 2018-02-06 ~ 
 공헌도: 개인프로젝트
+```
+
