@@ -33,7 +33,7 @@ Tools       Webpack, Git
 ```
 Language    C++, C#, ASP, Python3
 Library     Tensorflow
-Framework   Angular, Vue, Django, ASP.NET
+Framework   Angular.js, Vue, Django, ASP.NET
 Server      AWS
 Database    Postgresql
 Tools       Gulp
@@ -44,7 +44,7 @@ Tools       Gulp
 
 MDM솔루션
 
-- 개요: 2016년 설문조사 기준 기업에서 가장 도입이 시급한 솔루션으로 1위로 선정된 
+- 개요: 2016년 설문조사 기준 기업에서 가장 도입이 시급한 솔루션으로 1위로 선정된
     MDM 솔루션을 주제로 팀 프로젝트를 진행하였습니다.
 - 개발 환경: **Spring, Node.js, Android, MySQL**
 - 작업기간: 2017-01-09 ~ 2017-11-22 (10개월 14일)
@@ -54,25 +54,25 @@ MDM솔루션
 ### 공헌내용
 
  #### [MDM 서버개발(바로가기)](https://github.com/Gyejoon/MDMProject)
- 
+
  - 개발환경: **Node.js, FCM 모듈, MySQL**
  - 개요: MDM 솔루션을 통제하는 모바일 서버
  - 작업내용
    - FCM이용한 모바일 디바이스를 제어하고 제어기록을 DB에 저장
    - 출퇴근 시스템 개발(아두이노 - 사원카드 인증)
    - DB 설계 및 구축
-   
- 
+
+
  #### [MDM 솔루션 사용자 웹 개발(바로가기)](https://github.com/Gyejoon/TerrierUserWeb)
- 
+
  - 개발환경: **Spring, MySQL, HTML5, CSS3, JQUERY**
  - 개요: MDM 솔루션 사용자를 위한 사용자 웹
  - 작업내용
    - 제어요청, 분실신고, 내 디바이스 위치찾기, OTP발급, 내디바이스 제어 등의 기능을 구현
-   
- 
+
+
  #### [MDM 솔루션 관리자 웹 개발 서포트(바로가기)](https://github.com/Gyejoon/Project)
- 
+
  - 개발환경: **Spring, MySQL, HTML5, CSS3, JQUERY**
  - 개요: MDM 솔루션 통제권을 갖는 관리자 웹
  - 작업내용
@@ -81,11 +81,9 @@ MDM솔루션
 
 - - -
 
-**[SimpleBoard(바로가기)](https://github.com/Gyejoon/simpleBoardProjecet)**
+**[SimpleBoard(바로가기)](https://github.com/Gyejoon/simpleBoardProject)**
 
 - 개요: React.js 스터디를 위한 간단한 게시판 프로젝트입니다.
-- 개발 환경: **Node.js, React.js, Webpack, MongoDB**
+- 개발 환경: **Node.js, React.js, Webpack, MongoDB, HTML5, CSS3**
 - 작업기간: 2018-02-06 ~ (진행중)
 - 공헌도: 개인프로젝트
-
-
