@@ -42,7 +42,7 @@ Tools       Gulp
 
 ## 프로젝트
 
-MDM솔루션
+[MDM솔루션(동영상)](https://www.youtube.com/watch?v=Sd3DfFNZX-k)
 
 - 개요: 2016년 설문조사 기준 기업에서 가장 도입이 시급한 솔루션으로 1위로 선정된
     MDM 솔루션을 주제로 팀 프로젝트를 진행하였습니다.
