@@ -20,7 +20,7 @@
 ```
 Language    Java, JSP, PHP, HTML5, CSS3, Javascript
 Library     React.js, JQuery
-Framework   Spring, Express, Bootstrap
+Framework   Spring, Express, Bootstrap, Angular
 Platform    Node.js
 OS          Windows, Linux(Centos, Fedora)
 Server      Apache, Apache Tomcat
@@ -33,7 +33,7 @@ Tools       Webpack, Git
 ```
 Language    C++, C#, ASP, Python3
 Library     Tensorflow
-Framework   Angular.js, Vue, Django, ASP.NET
+Framework   Vue.js, Django, ASP.NET
 Server      AWS
 Database    Postgresql
 Tools       Gulp
