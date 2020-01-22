@@ -3,8 +3,8 @@
 
 ## 소개
 
-- 이름: 강준영(22세)
-- 주력언어: Java, Javascript
+- 이름: 강준영(24세)
+- 주력언어: TypeScript(JavaScript), Java
 
 - - -
 
@@ -12,31 +12,30 @@
 
 - 이메일: [00700mm@gmail.com](mailto:00700mm@gmail.com)
 - Github: [Gyejoon](https://github.com/Gyejoon)
-- 블로그: [Gyejoong](http://gyejoong.ze.am)
+- 블로그: [Gyejoong](http://gyejoong.tistory.com)
 
 - - -
 
 ## 자주 사용하는 기술
 ```
-Language    Java, JSP, PHP, HTML5, CSS3, Javascript
-Library     React.js, JQuery
-Framework   Spring, Express, Bootstrap, Angular
+Language    Java, PHP, HTML5, CSS3, TypeScript(JavaScript)
+Library     React, Vue.js
+Framework   Spring, Express, JPA, TypeORM
 Platform    Node.js
 OS          Windows, Linux(Centos, Fedora)
-Server      Apache, Apache Tomcat
-Database    MySQL, MongoDB, Oracle
+Cloud       AWS(Amazon Web Service)
+Database    MySQL, MongoDB
 Tools       Webpack, Git
 ```
 - - -
 
 ## 관심있는 기술
 ```
-Language    C++, C#, ASP, Python3
-Library     Tensorflow
-Framework   Vue.js, Django, ASP.NET
+Language    Dart, Python
+Library     React Native, GraphQL (Apollo)
+Framework   Flutter
 Server      AWS
 Database    Postgresql
-Tools       Gulp
 ```
 - - -
 
@@ -48,7 +47,7 @@ Tools       Gulp
     MDM 솔루션을 주제로 팀 프로젝트를 진행하였습니다.
 - 개발 환경: **Spring, Node.js, Android, MySQL**
 - 작업기간: 2017-01-09 ~ 2017-11-22 (10개월 14일)
-- 공헌도: **40%**
+- 공헌도: **50%**
 
 
 ### 공헌내용
