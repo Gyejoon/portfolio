@@ -1,79 +1,99 @@
-# PORTFOLIO
+<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+<p align="center">
+  <a href="https://www.gatsbyjs.org">
+    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  Gatsby's default starter
+</h1>
 
+Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
-## 소개
+_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
-- 이름: 강준영(24세)
-- 주력언어: TypeScript(JavaScript), Java
+## 🚀 Quick start
 
-- - -
+1.  **Create a Gatsby site.**
 
-## 연락처
+    Use the Gatsby CLI to create a new site, specifying the default starter.
 
-- 이메일: [00700mm@gmail.com](mailto:00700mm@gmail.com)
-- Github: [Gyejoon](https://github.com/Gyejoon)
-- 블로그: [Gyejoong](http://gyejoong.tistory.com)
+    ```shell
+    # create a new Gatsby site using the default starter
+    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
+    ```
 
-- - -
+1.  **Start developing.**
 
-## 자주 사용하는 기술
-```
-Language    Java, PHP, HTML5, CSS3, TypeScript(JavaScript)
-Library     React, Vue.js
-Framework   Spring, Express, JPA, TypeORM
-Platform    Node.js
-OS          Windows, Linux(Centos, Fedora)
-Cloud       AWS(Amazon Web Service)
-Database    MySQL, MongoDB
-Tools       Webpack, Git
-```
-- - -
+    Navigate into your new site’s directory and start it up.
 
-## 관심있는 기술
-```
-Language    Dart, Python
-Library     React Native, GraphQL (Apollo)
-Framework   Flutter
-Server      AWS
-Database    Postgresql
-```
-- - -
+    ```shell
+    cd my-default-starter/
+    gatsby develop
+    ```
 
-## 프로젝트
+1.  **Open the source code and start editing!**
 
-[MDM솔루션(동영상)](https://www.youtube.com/watch?v=Sd3DfFNZX-k)
+    Your site is now running at `http://localhost:8000`!
 
-- 개요: 2016년 설문조사 기준 기업에서 가장 도입이 시급한 솔루션으로 1위로 선정된
-    MDM 솔루션을 주제로 팀 프로젝트를 진행하였습니다.
-- 개발 환경: **Spring, Node.js, Android, MySQL**
-- 작업기간: 2017-01-09 ~ 2017-11-22 (10개월 14일)
-- 공헌도: **50%**
+    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
+    Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
-### 공헌내용
+## 🧐 What's inside?
 
- #### [MDM 서버개발(바로가기)](https://github.com/Gyejoon/MDMProject)
+A quick look at the top-level files and directories you'll see in a Gatsby project.
 
- - 개발환경: **Node.js, FCM 모듈, MySQL**
- - 개요: MDM 솔루션을 통제하는 모바일 서버
- - 작업내용
-   - FCM이용한 모바일 디바이스를 제어하고 제어기록을 DB에 저장
-   - 출퇴근 시스템 개발(아두이노 - 사원카드 인증)
-   - DB 설계 및 구축
+    .
+    ├── node_modules
+    ├── src
+    ├── .gitignore
+    ├── .prettierrc
+    ├── gatsby-browser.js
+    ├── gatsby-config.js
+    ├── gatsby-node.js
+    ├── gatsby-ssr.js
+    ├── LICENSE
+    ├── package-lock.json
+    ├── package.json
+    └── README.md
 
+1.  **`/node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
 
- #### [MDM 솔루션 사용자 웹 개발(바로가기)](https://github.com/Gyejoon/TerrierUserWeb)
+2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
 
- - 개발환경: **Spring, MySQL, HTML5, CSS3, JQUERY**
- - 개요: MDM 솔루션 사용자를 위한 사용자 웹
- - 작업내용
-   - 제어요청, 분실신고, 내 디바이스 위치찾기, OTP발급, 내디바이스 제어 등의 기능을 구현
+3.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
 
+4.  **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/). Prettier is a tool to help keep the formatting of your code consistent.
 
- #### [MDM 솔루션 관리자 웹 개발 서포트(바로가기)](https://github.com/Gyejoon/Project)
+5.  **`gatsby-browser.js`**: This file is where Gatsby expects to find any usage of the [Gatsby browser APIs](https://www.gatsbyjs.org/docs/browser-apis/) (if any). These allow customization/extension of default Gatsby settings affecting the browser.
 
- - 개발환경: **Spring, MySQL, HTML5, CSS3, JQUERY**
- - 개요: MDM 솔루션 통제권을 갖는 관리자 웹
- - 작업내용
-   - 관리자 감사기능(스프링의 인터셉터 기능을 이용하여 구현)
-   - 기존 인증방식(인터셉터 세션검증)에서 Spring Security를 이용한 인증방식으로 변경
+6.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.org/docs/gatsby-config/) for more detail).
+
+7.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby Node APIs](https://www.gatsbyjs.org/docs/node-apis/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process.
+
+8.  **`gatsby-ssr.js`**: This file is where Gatsby expects to find any usage of the [Gatsby server-side rendering APIs](https://www.gatsbyjs.org/docs/ssr-apis/) (if any). These allow customization of default Gatsby settings affecting server-side rendering.
+
+9.  **`LICENSE`**: This Gatsby starter is licensed under the 0BSD license. This means that you can see this file as a placeholder and replace it with your own license.
+
+10. **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(You won’t change this file directly).**
+
+11. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
+
+12. **`README.md`**: A text file containing useful reference information about your project.
+
+## 🎓 Learning Gatsby
+
+Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:
+
+- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
+
+- **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
+
+## 💫 Deploy
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
+
+<!-- AUTO-GENERATED-CONTENT:END -->
