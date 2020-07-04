@@ -1,0 +1,27 @@
+- profile:
+  initials: JYK
+  name: Jun Young Kang
+  email: gyejoong.yeon@gmail.com
+  profession: Web Developer
+  image: images/profile.jpg
+  location: Incheon, Korea
+  relocation: false
+  company: (주) 무른모
+  for_hire: true
+  focus: React
+  focus_url: https://ko.reactjs.org
+  about: |
+    JavaScript 생태계의 관심이 많으며, 웹 개발을 주로 해왔습니다. 
+
+    현재는 React와 TypeScript를 사용하여 프론트엔드 개발을 주로 맡아서 하고 있으며, UI/UX 개선에 관심이 많습니다.
+    서버 개발과 AWS를 활용한 배포/운영에도 경험이 있어, 각 파트에 대한 이해를 통해 적절한 타협과 커뮤니케이션에 원할합니다.
+    
+    앞으로는 프론트엔드 개발에 집중하여 사용자의 불편함을 해소하는데 일조하려 노력할 것입니다.
+  skills:
+    - JavaScript
+    - HTML / CSS
+    - React
+  tools:
+    - React
+    - VSCode
+    - TypeScript
