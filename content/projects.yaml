@@ -1,6 +1,6 @@
 - name: Reading Log
   url: https://github.com/Gyejoon/ReadingLog
-  description: | 
+  description: |
     좋은 책을 소개하고 리뷰하고 평점을 맺으며, 독자와 저자간의 소통을 할 수 있도록 커뮤니티 요소를 포함한 서비스입니다. 
     웹 / 모바일 환경을 둘다 고려하기 위해 반응형으로 개발중에 있으며, GoodReads 에서 영감 받아 기획 / 개발에 참여 하게 되었습니다.
   status: in progress
@@ -10,3 +10,15 @@
     - Redux
   icon: github
   image: images/project.jpg
+
+- name: Mine Sweeper
+  url: https://github.com/Gyejoon/MineSweeper
+  description: |
+    지뢰찾기 게임을 웹에서 구현하기 위해 React와 Mobx를 이용하여 개발하였습니다.
+  status: live
+  tags:
+    - React
+    - TypeScript
+    - Mobx
+  icon: github
+  image: images/project2.jpg
