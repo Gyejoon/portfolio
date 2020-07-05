@@ -20,6 +20,7 @@ exports.onPreBootstrap = ({ reporter }, options) => {
       'work-history.yaml',
       'images/profile.jpg',
       'images/project.jpg',
+      'images/project2.jpg'
     ];
 
     filesToCopy.forEach(file =>
