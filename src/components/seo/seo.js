@@ -1,7 +1,7 @@
-import { useStaticQuery, graphql } from "gatsby"
-import PropTypes from "prop-types"
-import React from "react"
-import { Helmet } from "react-helmet"
+import { useStaticQuery, graphql } from 'gatsby';
+import PropTypes from 'prop-types';
+import React from 'react';
+import { Helmet } from 'react-helmet';
 
 const SEO = props => {
   const { site } = useStaticQuery(
@@ -15,14 +15,14 @@ const SEO = props => {
           }
         }
       }
-    `
-  )
+    `,
+  );
 
   const {
     description = site.siteMetadata.description,
     meta = [],
     title = site.siteMetadata.title,
-  } = props
+  } = props;
 
   return (
     <Helmet
@@ -61,13 +61,13 @@ const SEO = props => {
         },
       ].concat(meta)}
     />
-  )
-}
+  );
+};
 
 SEO.propTypes = {
   description: PropTypes.string,
   meta: PropTypes.arrayOf(PropTypes.object),
   title: PropTypes.string,
-}
+};
 
-export default SEO
+export default SEO;

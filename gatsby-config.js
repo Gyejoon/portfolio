@@ -30,5 +30,5 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
   ],
-  pathPrefix: '/personal-branding'
+  pathPrefix: '/portfolio',
 };
