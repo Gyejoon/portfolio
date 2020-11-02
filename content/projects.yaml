@@ -1,9 +1,22 @@
+- name: CheckMate (가제)
+  url: 
+  description: |
+    규칙이 있는 출석 스터디 그룹을 매칭시켜주고, 페널티를 부여해서 목표를 달성하도록 동기부여를 하는 어플리케이션입니다.
+    12월 중 1차 릴리즈를 목표로 하고 있으며, 1차 목표는 유저 반응 확인 입니다.
+  status: in progress
+  tags:
+    - React Native
+    - TypeScript
+    - Redux
+  icon: github
+  image: images/project3.png
+
 - name: Reading Log
   url: https://github.com/Gyejoon/ReadingLog
   description: |
     좋은 책을 소개하고 리뷰하고 평점을 맺으며, 독자와 저자간의 소통을 할 수 있도록 커뮤니티 요소를 포함한 서비스입니다. 
     웹 / 모바일 환경을 둘다 고려하기 위해 반응형으로 개발중에 있으며, GoodReads 에서 영감 받아 기획 / 개발에 참여 하게 되었습니다.
-  status: in progress
+  status: stop
   tags:
     - React
     - TypeScript
