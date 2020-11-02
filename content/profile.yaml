@@ -6,8 +6,8 @@
   image: images/profile.jpg
   location: Incheon, Korea
   relocation: false
-  company: (주) 무른모
-  for_hire: true
+  company: (주) 크몽
+  for_hire: false
   focus: React
   focus_url: https://ko.reactjs.org
   about: |
