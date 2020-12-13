@@ -1,3 +1,14 @@
+- name: 발라앳홈 랜딩페이지
+  url: https://athome.valla.kr
+  description: |
+    발라앳홈 서비스의 랜딩페이지를 작업하였습니다. 반응형으로 웹사이트를 구축하였습니다.
+  status: live
+  tags:
+    - Next
+    - TypeScript
+    - Emotion
+  icon: github  
+
 - name: CheckMate (가제)
   url: 
   description: |
